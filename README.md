@@ -56,3 +56,7 @@ If you're interested in participating in writing and editing content for the
 Caves of Qud wiki, submit an [account creation
 request](https://wiki.cavesofqud.com/wiki/Special:RequestAccount) through the
 website.
+
+If you're just getting started as a wiki editor, a good place to look for
+outstanding wiki issues is to [check issues tracked with
+`good-first-issue`](/../../issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22).
