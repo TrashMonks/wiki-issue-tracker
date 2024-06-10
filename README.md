@@ -34,7 +34,7 @@ following kinds of issues are appropriate to file to the tracker:
 
 - **Typos or minor inaccuracies:** we ask that if you notice a typo or a small
   inaccuracy in the wiki, you edit it yourself rather than file an issue. These
-  issues can typically be resolved in far less time than it takes to file an
+  problems can typically be resolved in far less time than it takes to file an
   issue on them. If you need an account to fix a minor issue that you observe,
   please submit an [account creation
   request](https://wiki.cavesofqud.com/wiki/Special:RequestAccount) 
