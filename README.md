@@ -2,9 +2,14 @@
 
 Issue tracker for the [Caves of Qud wiki](https://wiki.cavesofqud.com/).
 
-## What this repository is for
+See the [issues](/../../issues) page to view outstanding issues or file a new
+issue. Please read the contribution guidelines below before filing an issue.
 
-This repository (and more specifically, its [issue tracker](/issues)) is
+## Contribution guidelines
+
+### What this repository is for
+
+This repository (and more specifically, its [issue tracker](/../../issues)) is
 intended to help keep track of major outstanding issues in the wiki. The
 following kinds of issues are appropriate to file to the tracker:
 
@@ -25,7 +30,7 @@ following kinds of issues are appropriate to file to the tracker:
   usually require technical expertise that wiki contributors are not expected to
   have.
 
-## What this repository is _not_ for
+### What this repository is _not_ for
 
 - **Typos or minor inaccuracies:** we ask that if you notice a typo or a small
   inaccuracy in the wiki, you edit it yourself rather than file an issue. These
@@ -37,7 +42,7 @@ following kinds of issues are appropriate to file to the tracker:
 We ask that you respect these guidelines. People who break these rules may be
 banned from submitting further issues.
 
-## Getting help
+### Getting help
 
 In some situations you may wish to submit a minor edit to the wiki but may not
 know all of the information you need (e.g., "I'd like to write something about
