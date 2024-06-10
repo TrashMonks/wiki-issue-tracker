@@ -33,11 +33,6 @@ following kinds of issues are appropriate to file to the tracker:
   issue on them. If you need an account to fix a minor issue that you observe,
   please submit an [account creation
   request](https://wiki.cavesofqud.com/wiki/Special:RequestAccount) 
-- **Minor missing or incomplete details:** similarly, please do not submit an
-  issue if you believe that a page is missing a minor detail (i.e. something
-  that could be stated in 1-2 sentences). Once again, we prefer that
-  contributors submit edits to the wiki directly rather than report them here
-  first.
 
 We ask that you respect these guidelines. People who break these rules may be
 banned from submitting further issues.
